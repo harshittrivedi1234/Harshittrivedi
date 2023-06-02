@@ -1,3 +1,3 @@
 # Harshittrivedi
 
-Link-  https://harshittrivedi1234.github.io/Harshittrivedi/
+Hosted Link-  https://github.com/harshittrivedi1234/Harshittrivedi/blob/master/second.txt
